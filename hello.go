@@ -1,5 +1,5 @@
 package hello
 
-func HelloAaasdf() string {
+func HelloFdsa() string {
     return "Hello, world."
 }
